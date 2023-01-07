@@ -18,7 +18,7 @@ window.onscroll = () => {
     }
 }
 
-let countDate = new Date('January 7, 2023 00:00:00').getTime();
+let countDate = new Date('March 7, 2023 00:00:00').getTime();
 
 function CountDown(){
 
