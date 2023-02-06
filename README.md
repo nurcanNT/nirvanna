@@ -1,4 +1,4 @@
-# nirvanna web site
+# nirvanna Organic Website
 
 ## What was done in the project?
 * A website design was prepared where organic products are sold.
